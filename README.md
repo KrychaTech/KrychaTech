@@ -6,7 +6,7 @@
 
 😂 Internal pain and suffering
 
-⛩ "Coding is like really cool i guess, idk" -Sun Tzu, The Art of War.
+🐶 do not the dog
 
 
 
