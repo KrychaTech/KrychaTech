@@ -34,7 +34,7 @@ main :: func(): void {
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗖</span><br><br><br>
+        <span>𝗖++</span><br><br><br>
         <img height="64px" src="https://webforpc.com/wp-content/uploads/2018/03/c-plus-plus-program-logo-image.png">
       </td>
       <td width="25%" align="center">
