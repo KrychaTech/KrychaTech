@@ -1,1 +1,1 @@
-KIRYUU-CHAN!
+burenyuu!
